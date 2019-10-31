@@ -8,4 +8,10 @@ directory and place each file into the corresponding sub-directory.
 Run `organize.py /path/directory/to/organize/` 
 
 ### ToDo
-- 
+- ~~Navigate to directory~~
+    - check if dir exists, if not inform user to make sure full path is entered (done)
+    - give example of full path
+- Get distinct file types 
+- create sub-directories for each file type
+- place each file in corresonding sub directory
+- visualize
