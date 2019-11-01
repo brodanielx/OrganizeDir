@@ -11,7 +11,9 @@ Run `organize.py /path/directory/to/organize/`
 - ~~Navigate to directory~~
     - ~~check if dir exists, if not inform user to make sure full path is entered~~
     - ~~give example of full path~~
-- Get distinct file types 
-- create sub-directories for each file type
+- ~~Get distinct file types~~
+- ~~create sub-directories for each file type~~
+- do not make dir for a filetype of the dir already exists
+- create 'subDirectories' sub-directory
 - place each file in corresonding sub directory
 - visualize
